@@ -3,7 +3,7 @@
 
 ## I'm a Front End Developer, and CS Student!!
 
-- 🌱 I’m currently learning everything how to make money from coding :D
+- 🌱 I’m currently learning how to make money from coding :D
 
 - 🥅 2022 Goals: Find a job as a Jr Front end Dev. 
 
