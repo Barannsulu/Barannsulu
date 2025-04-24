@@ -1,8 +1,7 @@
 
 # Hi there, I'm Baran 👋 
 
-## I'm a Front End Developer, and CS Student!!
-
+## Web Developer.
 
 
 
